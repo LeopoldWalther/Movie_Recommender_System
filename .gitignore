@@ -2,5 +2,6 @@
 movie_recommender_env/*
 recommender_template.py
 recommender_solution.py
-
+.DS_Store
+__pycache__/*
 	
